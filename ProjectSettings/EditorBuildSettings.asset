@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Game_Scenes/Menu.unity
+    guid: 7adcacf0ebe45454f9ffea057877a34d
+  - enabled: 1
+    path: Assets/Scenes/Game_Scenes/Sahne 1 - Past Storyboard.unity
+    guid: 6f2d1f25e99ee1844a8b16fc01f4dd05
+  - enabled: 1
+    path: Assets/Scenes/Game_Scenes/Sahne 2 - Talk With Bud.unity
+    guid: a1fc40f3d289a3e408ccb2841ab8811d
+  - enabled: 1
+    path: Assets/Scenes/Game_Scenes/Sahne 3 - Man walk Monolog.unity
+    guid: af57f433d3045344e9b2ab91f3b98dd8
+  - enabled: 1
+    path: Assets/Scenes/Game_Scenes/Sahne 4 - Bar Talk.unity
+    guid: a7206163c84f4564ba941bce945e974f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}

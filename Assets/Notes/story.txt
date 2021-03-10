@@ -1,0 +1,164 @@
+﻿Baþlangýç Ýþaretleri
+[ = sahne
+( = Dialoglar
+
+
+	Sahnelere dikkat edilirse alsýnda bir filme fazlasýyla benziyor. Amaç da bir bakýma öyle aslýnda.
+
+________________________________________________________________________________________________________________________________________________________
+
+		[Sahne 1: Arka Hikaye] //work weight: mostly drawing hence tuki
+
+			Bu sahnede babasýyla beraber zorlu bir iþte çalýþtýðýný gösterebiliriz. Ýþinin ne olduðundan bahsetmeden henüz. 
+			Belki kullanýlan ekipmanlarý az gösterebiliriz ama onun dýþýnda yaptýðý iþi anlamýcak kimse.
+
+			3 sentences here: for out character to say with picture collage 
+
+			photos?
+
+
+
+________________________________________________________________________________________________________________________________________________________
+
+		[Sahne 2: Arkadaþla Konuþma] 
+			
+			//work weight: a bit more tuki can do 
+			//he had already started you remember in another place
+			//but can be equal too  
+			//typing code, phone draw, back draw, translate, set up the scene
+	
+			Bu sahnede ana karaktter hacker arkadaþýyla konuþuyor.
+			Bulunduðu iþten sonunda kaçmayý baþardýðýný öðreniyoruz. 
+			Henüz çalýþtýðý þeyin ne olduðunu bilmiyoruz. Sadece bikaç ip ucu var elimizde
+			Sonrasýnda buluþma ayarlýyoruz 
+
+			(Telefon Konuþmasý) //final draft?
+			------------------------------------------------------------------! ünlemden uzun olmamalý cümleler
+
+			M: Is everything ready?
+
+			B: Just couple of hours and yes
+			
+			M: Is there anything left for me to do
+
+			B: Basic things, keep of the radar
+			
+			B: Dont go to black marketplaces
+
+			B: Most Importantly have fun my boy!										*my boy?*
+
+			B: It has been hell for you I know!
+
+			M: Yes it was...
+
+			B: We should celebrate!
+
+			M: What do you have in mind?
+
+			B: Lets go to that bar we used to go with your dad
+
+			M: Alright, to say goodbye i will
+
+			M: When do we meet?
+			
+			B: Lets meet saturday night so that things are a bit more settled.
+
+			M: Okay thanks again.
+
+			B: Take care
+
+________________________________________________________________________________________________________________________________________________________
+
+		[Sahne 3: Kendimi Hatýrladým Biraz]
+
+			Bu sahnede küçük bir monolog olacak bara doðru yürürken en fazla 3-4 baloncuktan oluþan bir konuþma bu
+			Biraz korkunçluktan bahsedeceðiz yaptýðýmýz ama yine çok fazla bilgi vermeyeceðiz.
+			Bilginin devamý kýz kaçýrýldýktan sonraki cutscene ile verilecek. yani {sahne 3'ün sonunda}
+
+			(Monolog)//daha monolog düzeltilmedi
+
+			It is finally over.
+
+			No blackmail is nice
+
+			I feel relieved now that I'm free 
+
+			This is piecefull
+
+
+________________________________________________________________________________________________________________________________________________________
+
+		[Sahne 4: Barda Sohbet]
+
+			(Dialog)//daha düzeltilmedi
+
+			//the more you earn points in these talks the more you get to live your life with her
+
+			HAZEL
+				Hi, is this seat taken?...
+			MAGNUM
+				/1 .Yes				//she sits further away
+				/2 .Suit yourself	// like in the middle warmth
+				/3 .No				// brings her close unlocks 1 more chatting option
+			HAZEL
+				/1 .Well I dont see anyone perhaps you are waiting someone, who is that lucky chick. 
+				/2 .My heart is warmed by your tonality so nice. 
+				/3 .Alright, it is now taken then.
+________________________________________________________________________________________________________________________________________________________
+
+		[Sahne 5: Kaçýrýldý]
+
+		Version 1- Soğuk davranmaya karşı olan kaçırılma sahnesi
+
+			Hazel diyalog bittikten sonra bir süre daha oturup içkisini shotlar. Biraz sarhoş bir şekilde 
+			bir tavır ile homurdanarak kalkıp kapıya doğru gitmeye başlar. Magnum kiz tam kapıdan çıkarken 
+			dönüp Hazel'a bakar ve önüne dönüp viskisini yudumlar(başka bir içki varsa önünde onu koy).
+			Barın seslerini dinleyip içkisini yudumlayan Magnum dışarıdan gelen tekerlek drift sesini takmasa bile
+			arkasından gelen çığlığı duyan tek kişi olarak dönüp kapıya cama bakar. Gördüğü manzara ise arabaya atılmış
+			korku içinde bir kız!
+		-------------------------------------------------------------------------------------------------------------
+		Version 2- Orta samimiyet sonucu olan kaçırılma sahnesi
+			
+			Hazel bir miktar uzağımıza ama samimiyet kurabileceğimiz kadar yakına otorup bizimle sohbet ettikten sonra sıra
+			vedalaşmaya gelir. Bu iğrenç şehirde kendimizi bir centilmen olarak gördüğümüz için Hazel'a çıkarken kapıyı açar ve 
+			taksi bulmasına eşlik ederiz. Tam o sırada uzaktan gelen far ışıkları gözümüze vurur. İçinden çıkan karanlık figürler
+			(maybe man with masks) bize silah doğrultup şunu derler:
+			
+			Unkown Masked Minion
+				GET ON THE FLOOR! GET ON THE FUCKING FLOOR!
+			Biz savaşacak bir neden bulmadığımızdan ötürü(sonuçta çok samimi değiliz hayatımızı riske atmaya gerek yok) yere yatarız.
+			Biz yere yattıktan sonra kızı arabaya atarlar ve elinde büyük bir yarası olan bir adam tam kızın arkasından arabaya binecekken
+			durur ve dönüp bize doğru yaklaşır. Bize tiksinmiş bir şekilde baktıktan sonra karın bölgemize bir tane tekme atar. Biz acı 
+			içinde kıvranıp etrafı algıyabilme yeteneğimizi kaybetmişken yine araba tekerleği sesleri duyarız. kendimize gelip sese doğru
+			baktığımızda olduça ilerde küçük bir araba figürü görürüz. Arabanın arka camında ise Hazel bize doğru bakmaktadır.
+		-------------------------------------------------------------------------------------------------------------
+		Version 3- Samimi  sonucu olan kaçırılma sahnesi
+			
+			Hazel oldukça yakın oturmaktadır. Güzel ve samimi bir sohbetin arkasından artık gitmesi gerektiğini söyler. Kızı çok beğenmiş
+			olan Magnum kıza eşlik etmek ister. Dışarı çıkarlar. Dışarı çıktıkları gibi barın gürültüsü minimal olur ve sessiz bir sokakta
+			buluverirler kendilerini. Tek gördükleri karanlık bir sokağın ucundaki iki araba farı. Magnum onun bir taksi olduğunu düşünsede 
+			kendini tedirgin hisseder. Gerçi Magnum hep tedirgin... Git gide büyüyen farları gören Hazel ve Magnum vedalaşmaya hazırlanır
+			(hala taksi olduğunu düşünüyorlar). Tam o sırada tekerlek drift sesi duyulur arabadan. Araba aniden durur ve arabdan 3 sopalı 
+			adam çıkar. Magnum Hazel'ı arkasına alır ve korumaya çalışır. Fakat hatırladığı tek şey elinde büyük bir yarası olan adamın kafasına
+			bir tane indirdiği ve Hazel'ın çığlıkları.
+		-------------------------------------------------------------------------------------------------------------
+
+		[Sahne 6: Savaþa Hazýrlýk]
+
+		[Sahne 7: Savaþ/mini boss]
+
+		//buralarda bir yerde annessinin de kötü olduðu düþüncesini ve babasýna yardým edeceðni göstereceðiz defterden belkide
+
+		[Sahne 8: Kýz Güvende]
+
+		[Sahne 9: Boss Konuþmasý] 
+
+		[Sahne 10: Savaþ 2/ boss]
+
+		[Sahne 11: The End]
+		//gerçek ortaya çýkar
+
+		//toplanýlan puana göre adamýn sonu belli olur
+
+		//8 ends of the game story maybe?
+
