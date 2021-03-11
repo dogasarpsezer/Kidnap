@@ -11,7 +11,7 @@ public class CursorFollower : MonoBehaviour
         gameObject.transform.position = Camera.main.ScreenToWorldPoint(mousePosition);
     }
 
-    // Update is called once per frame
+
     void Update()
     {
         mousePosition = new Vector2(Input.mousePosition.normalized.x, Input.mousePosition.normalized.y);
